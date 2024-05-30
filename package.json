@@ -1,6 +1,9 @@
 {
   "name": "nextjs-commerce",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
