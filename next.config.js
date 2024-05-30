@@ -44,4 +44,5 @@ module.exports = bundleAnalyzer({
     // a non-locale prefixed path e.g. `/hello`
     defaultLocale: 'en-US',
   },
+  productionBrowserSourceMaps: true,
 })
